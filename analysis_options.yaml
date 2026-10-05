@@ -1,0 +1,8 @@
+include: package:flutter_lints/flutter.yaml
+
+# SnakeX Cloud · workshop lint profile — strict enough to teach,
+# relaxed enough not to block beginners mid-live-coding.
+linter:
+  rules:
+    prefer_single_quotes: true
+    always_declare_return_types: true
